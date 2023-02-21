@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Directions:
+Create a new Angular application
+In the AppComponent
+Display the movie posters of 4 movie flops
+Place a button for each one to vote for it
+When a button is clicked, disable all of the buttons
+Also, display a message next to the chosen poster that says "Chosen!"
+Bonus Challenge - Enable changing your vote
+Change the text of the clicked button to "Unvote" and don't disable it
+If it is clicked again to "unvote" then re-enable the other buttons, remove the "Chosen!" message and change the button text back to "Vote" so that you can change your vote.
